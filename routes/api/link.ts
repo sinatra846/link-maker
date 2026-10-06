@@ -11,4 +11,4 @@ export const handler = {
     console.log(target_url, body);
     return new Response(JSON.stringify(body));
   },
-};
+};https://line.mag7070.eu:80/play/live.php?mac=00:1B:79:4A:26:D8&stream=897418&extension=ts&play_token=k2xcrMNP7l
